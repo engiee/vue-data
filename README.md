@@ -1,5 +1,3 @@
-# tong2-family
-
 > 使用vue2.0、vuex、vue-router2.0、echarts等搭建的一个数据展示平台
 > 不支持IE8及其以下版本，单页面应用
 > 对华科电信大二学生的做了一些调查，对调查结果进行可视化展示，同时分析了通信1502班的群聊记录，得到班级群聊活跃度等信息
@@ -20,10 +18,6 @@ npm run build
 # 运行单元测试
 npm run unit
 ```
-
-## 在线访问
-[http://119.29.57.165:8080/family](http://119.29.57.165:8080/family)        
-**注意**：只有用通信1502班同学的qq号登陆才能看到我的群聊活跃时间
 
 ## 源码说明
 ```
@@ -49,13 +43,3 @@ npm run unit
 |-- index.html                       // 入口页面
 |-- package.json                     // 项目配置相关信息
 .
-```
-
-## 教程
-我的博客：[http://hyuhan.com/2016/11/17/A-data-display-platform/](http://hyuhan.com/2016/11/17/A-data-display-platform/)
-
-## 联系作者
-- [Hieeyh's Personal Website](http://hyuhan.com/)
-- Email: yuhanhou_enna@126.com
-- [微博](http://weibo.com/5204306789/profile?topnav=1&wvr=6&is_all=1)
-
